@@ -3,3 +3,6 @@ simple:
 
 arguments:
 	gcc arguments.c -o ./output/arguments
+
+conversion:
+	gcc conversion.c -o ./output/conversion
