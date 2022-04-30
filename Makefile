@@ -6,3 +6,12 @@ arguments:
 
 conversion:
 	gcc conversion.c -o ./output/conversion
+
+curl_call:
+	gcc curl_call.c -o ./output/curl_call
+
+files:
+	gcc files.c -o ./output/files
+
+download_file:
+	gcc download_url.c -o ./output/download

@@ -1,0 +1,3 @@
+The idea is to be able to do some more meaningful things with the computer. Ken Thompson had wife and a 1 year old daughter when he was creating the UNIX OS.
+
+So I don't know exactly why we are dealing with this types of information 
